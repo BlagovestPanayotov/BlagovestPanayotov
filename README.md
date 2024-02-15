@@ -1,4 +1,4 @@
-![MasterHead](<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NsaDk2cGltaXc1MzdmNjNoeW5peno3dHVjNmowOG16Y2gweHl4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif"></p>)
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NsaDk2cGltaXc1MzdmNjNoeW5peno3dHVjNmowOG16Y2gweHl4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif"></p>
 <h1 align="center">Hi 👋, I'm Blagovest Panayotov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria, currently living in United Kingdom.</h3>
 <img align="right" alt="Hello" width="400px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
